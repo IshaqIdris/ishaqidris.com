@@ -1,2 +1,2 @@
 # ishaqidris.com
-Personal website
+https://ishaqidris.herokuapp.com/introSlides.html
