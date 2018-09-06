@@ -4,8 +4,8 @@ body {
 .glitch {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 900;
-  color: black;
-  font-size: 40px;
+  color: rgba(0, 0, 0, 0.678);
+  font-size: 20px;
   position: relative;
   width: 400px;
   margin: 0 auto;
@@ -80,7 +80,7 @@ body {
 .glitch:after {
   content: attr(data-text);
   position: absolute;
-  left: 2px;
+  left: 55px;
   text-shadow: -1px 0 red;
   top: 0;
   color: rgb(81, 1, 134);
@@ -160,7 +160,7 @@ body {
 .glitch:before {
   content: attr(data-text);
   position: absolute;
-  left: -2px;
+  left: 52px;
   text-shadow: 1px 0 blue;
   top: 0;
   color: #15fa00;
