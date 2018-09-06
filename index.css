@@ -229,5 +229,6 @@ body {
 }
 
 .menu{
-  float: left;
+/* float: left; */
+  display: inline;
 }
