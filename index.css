@@ -7,7 +7,7 @@ body {
   color: rgba(0, 0, 0, 0.678);
   font-size: 20px;
   position: relative;
-  width: 400px;
+  width: 200px;
   margin: 0 auto;
   text-align: center;
 }
@@ -80,7 +80,7 @@ body {
 .glitch:after {
   content: attr(data-text);
   position: absolute;
-  left: 55px;
+  left: 1px;
   text-shadow: -1px 0 red;
   top: 0;
   color: rgb(81, 1, 134);
@@ -160,7 +160,7 @@ body {
 .glitch:before {
   content: attr(data-text);
   position: absolute;
-  left: 52px;
+  left: 0px;
   text-shadow: 1px 0 blue;
   top: 0;
   color: #15fa00;
@@ -172,11 +172,7 @@ body {
   
 }
 
-.header{
-  border-style: solid;
-  border-width: thin;
-  border-color: #15fa00;
-}
+
 
 /* The side navigation menu */
 .sidenav {
