@@ -1,2 +1,2 @@
 # ishaqidris.com
-https://ishaqidris.herokuapp.com/introSlides.html
+https://ishaqidris.herokuapp.com/
